@@ -1,0 +1,19 @@
+{
+  "name": "print-forecast",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules npx jest --watchAll"
+  },
+  "keywords": [],
+  "author": "michelkim",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "engines": {
+    "node": "v20.14.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
